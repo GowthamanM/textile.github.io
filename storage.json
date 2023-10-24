@@ -4,20 +4,20 @@
         "id":"1232324",
         "price":1299,
         "imageUrl":"https://5.imimg.com/data5/SELLER/Default/2022/8/BC/IT/RJ/18451800/traditional-look-soft-silk-saree-with-blouse.jpeg",
-        "category":"saree"
+        "category":"Cotton Saree"
     },
     {
         "name":"Saree 02",
         "id":"1232325",
         "price":1399,
         "imageUrl":"https://www.shutterstock.com/image-photo/natural-silk-fold-fabrics-texture-260nw-2192746259.jpg",
-        "category":"saree"
+        "category":"Silk Saree"
     },
     {
         "name":"Saree 03",
         "id":"1232322",
-        "price":1399,
+        "price":799,
         "imageUrl":"https://5.imimg.com/data5/SELLER/Default/2022/8/BC/IT/RJ/18451800/traditional-look-soft-silk-saree-with-blouse.jpeg",
-        "category":"saree"
+        "category":"Silk Saree"
     }
 ]
